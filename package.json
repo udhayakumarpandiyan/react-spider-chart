@@ -1,9 +1,10 @@
 {
   "name": "react-spider-chart",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A svg spider chart which includes user interaction and customization",
   "author": "udhayakumarpandiyan",
   "license": "ISC",
+  "keywords": ["react-spider-chart,react-svg-spider-chart,react-radar-chart,radar-chart,spider-chart,react-svg-chart"],
   "repository": "udhayakumarpandiyan/react-spider-chart",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
